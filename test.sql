@@ -1,0 +1,2 @@
+INSERT INTO `deshawnapi_APPOINTMENT` VALUES (null, true, CURRENT_DATE, 4);
+INSERT INTO `deshawnapi_APPOINTMENT` VALUES (null, false, CURRENT_DATE, 1);

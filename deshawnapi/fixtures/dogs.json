@@ -1,0 +1,115 @@
+[
+    {
+        "model": "deshawnapi.dog",
+        "pk": 1,
+        "fields": {
+            "walker": 2,
+            "name": "Rocket"
+        }
+    },
+    {
+        "model": "deshawnapi.dog",
+        "pk": 2,
+        "fields": {
+            "walker": 1,
+            "name": "Ebony"
+        }
+    },
+    {
+        "model": "deshawnapi.dog",
+        "pk": 3,
+        "fields": {
+            "walker": 3,
+            "name": "Scotty"
+        }
+    },
+    {
+        "model": "deshawnapi.dog",
+        "pk": 4,
+        "fields": {
+            "walker": 4,
+            "name": "Mac"
+        }
+    },
+    {
+        "model": "deshawnapi.dog",
+        "pk": 5,
+        "fields": {
+            "walker": 1,
+            "name": "Oreo"
+        }
+    },
+    {
+        "model": "deshawnapi.dog",
+        "pk": 6,
+        "fields": {
+            "walker": 4,
+            "name": "Churro"
+        }
+    },
+    {
+        "model": "deshawnapi.dog",
+        "pk": 7,
+        "fields": {
+            "walker": 2,
+            "name": "Angus"
+        }
+    },
+    {
+        "model": "deshawnapi.dog",
+        "pk": 8,
+        "fields": {
+            "walker": 3,
+            "name": "Butch"
+        }
+    },
+    {
+        "model": "deshawnapi.dog",
+        "pk": 9,
+        "fields": {
+            "walker": 1,
+            "name": "Dame"
+        }
+    },
+    {
+        "model": "deshawnapi.dog",
+        "pk": 10,
+        "fields": {
+            "walker": 1,
+            "name": "Sparkle"
+        }
+    },
+    {
+        "model": "deshawnapi.dog",
+        "pk": 11,
+        "fields": {
+            "walker": 2,
+            "name": "Bolt"
+        }
+    },
+    {
+        "model": "deshawnapi.dog",
+        "pk": 12,
+        "fields": {
+            "walker": 3,
+            "name": "Lassie"
+        }
+    },
+    {
+        "model": "deshawnapi.dog",
+        "pk": 13,
+        "fields": {
+            "walker": 4,
+            "name": "Bonnie"
+        }
+    },
+    {
+        "model": "deshawnapi.dog",
+        "pk": 14,
+        "fields": {
+            "walker": 2,
+            "name": "Element"
+        }
+    }
+]
+

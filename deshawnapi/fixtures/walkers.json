@@ -1,0 +1,39 @@
+[
+    {
+        "model": "deshawnapi.walker",
+        "pk": 1,
+        "fields": {
+            "city": 4,
+            "name": "Alphonse Meron",
+            "email": "Mariana14@example.net"
+        }
+    },
+    {
+        "model": "deshawnapi.walker",
+        "pk": 2,
+        "fields": {
+            "city": 2,
+            "name": "Damara Pentecust",
+            "email": "Genesis90@example.org"
+        }
+    },
+    {
+        "model": "deshawnapi.walker",
+        "pk": 3,
+        "fields": {
+            "city": 3,
+            "name": "Anna Bowton",
+            "email": "Braden_Hermann@example.com"
+        }
+    },
+    {
+        "model": "deshawnapi.walker",
+        "pk": 4,
+        "fields": {
+            "city": 1,
+            "name": "Hunfredo Drynan",
+            "email": "Ollie38@example.net"
+        }
+    }
+]
+
